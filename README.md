@@ -2,6 +2,8 @@
 
 Proyecto final del curso de Machine Learning II (Maestría en Analítica Aplicada / Inteligencia Artificial, Universidad de La Sabana).
 
+**Realizado por:** Yorlieth Daniela González - Anderson Sarmiento - Fredy Agaton
+
 **Artículo recreado:** Tapia, Chavez-Garzon, Pezoa, Suarez-Aldunate y Pilleux (2025), *Comparing automated valuation models for
 real estate assessment in the Santiago Metropolitan Region: A study on machine learning algorithms and hedonic pricing with
 spatial adjustments*, PLOS ONE 20(3): e0318701 · https://doi.org/10.1371/journal.pone.0318701
