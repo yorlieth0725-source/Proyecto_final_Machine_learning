@@ -1,0 +1,16 @@
+pos,LightGBM+SHAP,OLS,SAR
+1,total_surface,quality_municipality,bathrooms
+2,simce_4b,bathrooms,quality_municipality
+3,quality_municipality,total_surface,total_surface
+4,bathrooms,simce_4b,bedrooms
+5,dist_university,bedrooms,simce_4b
+6,dist_industry,dist_university,nearby_schools_3km
+7,swimpool,building_type,building_type
+8,dist_dump,dist_industry,dist_university
+9,dist_police,storage_units,storage_units
+10,dist_subway,nearby_schools_3km,terrace
+11,building_type,terrace,dist_hospital
+12,terrace,dist_police,photo_diningroom
+13,bedrooms,photo_diningroom,seller_type
+14,dist_mall,dist_penitentiary,photo_bathroom
+15,dist_penitentiary,photo_bathroom,dist_dump
